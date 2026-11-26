@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "thaisvitoriafosaluza_CI_CD",
+    "slug": "thaisvitoriafosaluzacicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a6a5518-776b-4291-a2c6-6e7e1e42b675"
+      }
+    },
+    "owner": "thaisvitoriafslzs-team"
   }
 }
